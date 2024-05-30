@@ -1,7 +1,7 @@
 # Using this template
 
 * Ensure Terraform is installed
-* Ensure AWS CLI is installed and configure
+* Ensure Azure CLI is installed and configure
 * Ensure you have key pair generated using `ssh-keygen` command in your system
 * Clone this repo and cd into `azure-vm-docker`
 ```
